@@ -1,2 +1,2 @@
 # ScreenRec
-ScreenRecorder for window, progam lang PY converted to exe
+HD ScreenRecorder for window, progam lang PY converted to exe
