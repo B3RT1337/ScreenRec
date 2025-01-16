@@ -37,7 +37,7 @@ class ScreenRecorderApp:
         self.image_label = tk.Label(self.intro_frame, image=self.loading_image)
         self.image_label.place(relx=0.5, rely=0.5, anchor="center")
 
-        # Simulate loading for 3 seconds
+        # Simulate loading for 2 seconds
         self.root.after(2000, self.show_main_ui)
 
     def show_main_ui(self):
